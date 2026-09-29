@@ -87,7 +87,3 @@ Cipher transposisi: plainteks ditulis per baris sebanyak panjang kunci, lalu dib
 ├── 3_columnar_transposition.py
 └── README.md
 ```
-
-## Referensi
-
-- Materi kuliah *Ragam Cipher Klasik (Bagian 1)*, IF4020 Kriptografi, Dr. Ir. Rinaldi Munir, M.T., Informatika ITB.
