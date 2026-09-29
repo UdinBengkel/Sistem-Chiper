@@ -6,11 +6,11 @@ Tugas: membuat 3 aplikasi sistem cipher klasik dengan antarmuka GUI.
 
 | | |
 |---|---|
-| Nama | Syafarudiansya (Yansa) |
+| Nama | Syafarudiansya |
 | Kelas | I241A |
 | NIM | 312410381 |
 | Kampus | Universitas Pelita Bangsa |
-| Mata Kuliah | _(isi nama mata kuliah)_ |
+| Mata Kuliah | Kriptografi |
 
 ## Daftar Aplikasi
 
